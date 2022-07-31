@@ -1,2 +1,2 @@
 trest file created.
-write something 
+write something
